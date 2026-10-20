@@ -1,0 +1,3 @@
+example_id,type,title,abstract_text,decision,reasoning,notes,prompt_was_truncated
+EXMPL1,include,"Biased Representation of Politicians in Google and Wikipedia Search? The Joint Effect of Party Identity, Gender Identity and Elections",Web search engines have become an important and trusted source when people seek political information. Even though previous research suggests that information about politicians in traditional and new ,include,,,True
+EXMPL6,exclude,Meaning Multiplicity Across Communication Subfields: Bridging the Gaps,Subdisciplines in communication studies have developed competing and self-contained theories of meaning multiplicity. Arguing that this fragmented scholarship falls short of grasping the full scope of,exclude,,,True
