@@ -1,0 +1,18 @@
+# Secrets and local config
+.env
+settings.py
+
+# Results and logs
+results/
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

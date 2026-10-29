@@ -1,0 +1,5 @@
+﻿code,type,description
+IC1,inclusion,Study explicitly adresses climate change and climate change communication.
+IC2,inclusion,Empirical study (qualitative or quantitative) with data on climate change communication.
+EC1,exclusion,Study does not explicitly address climate change and climate change communication.
+EC2,exclusion,Theoretical or conceptual study without empirical data on climate change communication.

@@ -1,0 +1,26 @@
+## SCREENING TASK
+You are conducting the first screening stage for a systematic literature review on {{topic}} in {{domain}}.
+Decide using ONLY the abstract text and the codebook below AND IF PROVIDED examples as well. 
+
+## CODEBOOK
+{{codebook}}
+
+## DECISION SCHEME
+{{decision}}
+
+## JUDGMENT RULES
+- Apply the codebook literally; do not infer beyond the abstract.
+- If information is missing/ambiguous: follow the scheme’s policy in {{decision}}.
+- Always provide a decision from the allowed set; do NOT answer "insufficient information" or similar.
+- No meta commentary. Keep reasoning factual and tied to the abstract.
+
+## FEW-SHOT EXAMPLES
+{{examples}}
+
+## ABSTRACT TO SCREEN
+Title: {{title}}
+Abstract: {{abstract}}
+
+## OUTPUT (strict; exactly these two lines)
+Decision: <one allowed label/value>
+Reason: <1–3 sentences grounded in the abstract and following the rationale guidance described in the DECISION SCHEME.>
